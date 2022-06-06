@@ -1,0 +1,22 @@
+
+
+img{
+    display: inline;
+    width: 20px;
+    height: 20px;
+}
+
+
+
+.btn-copy{
+    visibility:hidden;
+}
+
+.visible{
+    visibility: visible;
+    margin-left: 5px;
+    margin-top: 10px;
+    
+}
+
+
